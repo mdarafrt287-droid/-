@@ -1,0 +1,6 @@
+{
+  "name": "ARIFA AI",
+  "description": "Futuristic Bengali & English AI Assistant with voice, chat, image generation, edge lighting, and native services",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

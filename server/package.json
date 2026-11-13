@@ -1,0 +1,12 @@
+{
+  "name": "arifa-ai-backend",
+  "version": "1.0.0",
+  "description": "Secure server-side Gemini API proxy backend for ARIFA AI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["gemini", "ai", "bengali", "arifa"],
+  "author": "ARIFA AI",
+  "license": "ISC"
+}
